@@ -1,0 +1,3 @@
+[submodule "LLM_Embedding_Attack"]
+	path = LLM_Embedding_Attack
+	url = https://github.com/SchwinnL/LLM_Embedding_Attack.git
